@@ -53,6 +53,7 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
  <li>Find its Successors Or neighbors and Check whether the node is visited or not</li>
  <li>If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.</li>
 </ol></B>
+
 # PROGRAM:
 ~~~
 import defaultdict
@@ -113,7 +114,7 @@ F H <BR>
 <hr>
 ['0', '1', '2', '3', '4']
 
-#OUTPUT:
+# OUTPUT:
 ![311111521-c3149235-5ade-40c3-85ad-bcac9460e219](https://github.com/Naveenvetrivel/19AI405ExpNo2/assets/94165322/9b050775-44a2-496b-a43a-f5de25c41133)
 
 
